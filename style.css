@@ -217,7 +217,7 @@ button{
     height:50px;
     width:150px;
 }
-@media (max-width:360px){
+@media (max-width:480px){
 
 
     body{
